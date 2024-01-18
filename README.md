@@ -4,7 +4,7 @@ Código para enviar la historia de los corridos tumbados por Natanael Cano a tus
 
 ## Uso
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abra [NataSend.js](https://github.com/elionaz/SendNatatWhatsApp/blob/main/NataSend.js)
 
 Copie todo el contenido (haga clic en raw -> ctrl+a -> ctrl+c)
 
