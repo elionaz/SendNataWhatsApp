@@ -34,7 +34,7 @@ Esto dio luz a una nueva forma de interpretar la música, conocida popularmente 
 Décadas más tarde, artistas como **Pedro Infante** llevaron la música ranchera a su centro de atención.
 Sus baladas románticas se hicieron reconocer en todo el mundo como música propia de México.
 Luego vinieron **Los Tigres del Norte** y todo cambió.
-En los años 70, **Los Tigres del Norte** popularizaron una canción ficticia sobre el narcotráfico llamada "Contrato y Traición".
+En los años 70, **Los Tigres del Norte** popularizaron una canción ficticia sobre el narcotráfico llamada "Contrabando y Traición".
 Ese corrido fue exitoso y controversial.
 Esto dio comienzo al género "Narcocorrido".
 **Los Tigres del Norte** fueron unos de los pioneros en el género del "Narcocorrido" y, aunque el apetito por su música era feroz, México prohibió el género, empujando a los músicos a las ciudades fronterizas y, finalmente, a Estados Unidos.
